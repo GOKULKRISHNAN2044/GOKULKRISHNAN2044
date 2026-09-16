@@ -1,0 +1,48 @@
+<svg xmlns='http://www.w3.org/2000/svg'
+    xmlns:xlink='http://www.w3.org/1999/xlink'
+    viewBox='0 0 850 65'
+    style='background-color: transparent;'
+    width='850px' height='65px'>
+
+    <path id='path0'>
+        <animate id='d0' attributeName='d' begin='0s;d2.end'
+            dur='4500ms' fill='remove'
+            values='m0,35 h0 ; m0,35 h850 ; m0,35 h850 ; m0,35 h0' keyTimes='0;0.55;0.85;1' />
+    </path>
+    <text font-family='JetBrains Mono, Fira Code, Consolas, Courier New, monospace' font-weight='700' fill='#38BDF8' font-size='30'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath href='#path0' xlink:href='#path0'>
+            Hey there! I'm Gokulkrishnan G
+        </textPath>
+    </text>
+
+    <path id='path1'>
+        <animate id='d1' attributeName='d' begin='d0.end'
+            dur='4500ms' fill='remove'
+            values='m0,35 h0 ; m0,35 h850 ; m0,35 h850 ; m0,35 h0' keyTimes='0;0.55;0.85;1' />
+    </path>
+    <text font-family='JetBrains Mono, Fira Code, Consolas, Courier New, monospace' font-weight='700' fill='#38BDF8' font-size='30'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath href='#path1' xlink:href='#path1'>
+            AI-Native Software Engineer | Agent Architect
+        </textPath>
+    </text>
+
+    <path id='path2'>
+        <animate id='d2' attributeName='d' begin='d1.end'
+            dur='4500ms' fill='remove'
+            values='m0,35 h0 ; m0,35 h850 ; m0,35 h850 ; m0,35 h0' keyTimes='0;0.55;0.85;1' />
+    </path>
+    <text font-family='JetBrains Mono, Fira Code, Consolas, Courier New, monospace' font-weight='700' fill='#38BDF8' font-size='30'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath href='#path2' xlink:href='#path2'>
+            Building Multi-Agent Systems &amp; Resilient Backends
+        </textPath>
+    </text>
+</svg>

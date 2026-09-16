@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Hey+there+👋+I'm+Gokulkrishnan+G;AI-Native+Software+Engineer+%7C+Agent+Architect" alt="Typing SVG" />
+<img src="./assets/typing.svg" alt="Typing SVG" width="850" />
 
 <br/>
 
