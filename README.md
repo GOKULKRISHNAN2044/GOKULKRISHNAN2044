@@ -17,6 +17,7 @@
 
 <!-- Social Links -->
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Live%20Site-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://myportfolio-delta-one-21.vercel.app/)
+[![Resume](https://img.shields.io/badge/📄%20Resume-View%20PDF-F59E0B?style=for-the-badge)](./Resume/Gokul_resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gokul--krishnan--g--2026--ai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokul-krishnan-g-2026-ai/)
 [![GitHub](https://img.shields.io/badge/GitHub-GOKULKRISHNAN2044-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GOKULKRISHNAN2044)
 [![Email](https://img.shields.io/badge/Email-gokulkr3331y%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gokulkr3331y@gmail.com)
