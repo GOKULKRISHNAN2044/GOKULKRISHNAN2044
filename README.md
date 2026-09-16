@@ -16,6 +16,7 @@
 <br/><br/>
 
 <!-- Social Links -->
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Live%20Site-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://myportfolio-delta-one-21.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gokul--krishnan--g--2026--ai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokul-krishnan-g-2026-ai/)
 [![GitHub](https://img.shields.io/badge/GitHub-GOKULKRISHNAN2044-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GOKULKRISHNAN2044)
 [![Email](https://img.shields.io/badge/Email-gokulkr3331y%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gokulkr3331y@gmail.com)
@@ -137,18 +138,28 @@ class GokulkrishnanG:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GOKULKRISHNAN2044&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f172a&title_color=38BDF8&icon_color=7C3AED&text_color=94A3B8"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOKULKRISHNAN2044&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38BDF8&text_color=94A3B8"/>
+<!-- Main Profile Summary Card with 1-Year Contributions Chart -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GOKULKRISHNAN2044&theme=tokyonight" alt="GitHub Profile Summary" />
 
-</div>
+<br/><br/>
 
-<div align="center">
+<!-- Stats & Top Languages cards side by side -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GOKULKRISHNAN2044&theme=tokyonight" alt="GitHub Stats" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GOKULKRISHNAN2044&theme=tokyonight" alt="Top Languages by Repo" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=GOKULKRISHNAN2044&theme=tokyonight&hide_border=true&background=0f172a&stroke=38BDF8&ring=7C3AED&fire=F59E0B&currStreakLabel=38BDF8&dates=94A3B8)](https://git.io/streak-stats)
+<br/><br/>
+
+<!-- Productivity Time & Streak Stats -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GOKULKRISHNAN2044&theme=tokyonight" alt="Productive Time" />
+&nbsp;
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=GOKULKRISHNAN2044&theme=tokyonight&hide_border=true&background=1a1b27&stroke=38BDF8&ring=7C3AED&fire=F59E0B&currStreakLabel=38BDF8&dates=94A3B8" alt="GitHub Streak" />
+</a>
 
 </div>
 
@@ -190,16 +201,6 @@ class GokulkrishnanG:
 
 **B.Tech — Artificial Intelligence & Data Science**
 Panimalar Engineering College, Chennai | 2022 – 2026 | **CGPA: 8.33 / 10**
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Gokul's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GOKULKRISHNAN2044&bg_color=0f172a&color=38BDF8&line=7C3AED&point=F59E0B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 
